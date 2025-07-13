@@ -2,10 +2,6 @@
 
 A collection of beginner-friendly Verilog HDL exercises prepared for the "VLSI for Beginners" course at **National Institute of Electronics and Information Technology, Calicut**.
 
-> 📞 Contact: Mr. Sreejeesh SG, Senior Technical Officer  
-> 📧 Email: sreejeesh@nielit.gov.in  
-> 📱 WhatsApp: 9447769756
-
 ---
 
 ## 🧪 Lab Exercises
